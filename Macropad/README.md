@@ -22,7 +22,8 @@ Here are pictures of my pcb:
 =======
 ![Schematic image](https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/Schematic.png)  ![PCB Image](https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/PCB.png)|
 
-
+<img src="Images/Schematic.png" width="300" />
+<img src="Images/PCB.png" width="300" />
 
 
 \## Firmware
