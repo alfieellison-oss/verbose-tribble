@@ -1,4 +1,4 @@
-\# Alfie's CAD Macropad
+# Alfie's CAD Macropad
 
 Hello! This is my submission for hackpad! This was made with the intention to streamline common cad commands in Autodesk software.
 
@@ -13,7 +13,7 @@ Hello! This is my submission for hackpad! This was made with the intention to st
  
 \- kmk firmware
 
-\## PCB
+## PCB
 
 Here are pictures of my pcb:
 
@@ -25,19 +25,18 @@ Here are pictures of my pcb:
 <img src="https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/Schematic.png" width="500" /> <img src="https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/PCB.png" width="500" />
 
 
-\## Firmware
+## Firmware
 
 
 
 I wrote the firmware using kmk, you can see it inside the repo. 
 
 
-\## Notes
+## Notes
 
 Making the  pad was my first time using KiCAD, but hopefully wont be the last. I experimented a fair bit with my trace routing before i came up with a layput that i was moderately happy with.
 
-
-\## BOM
+## BOM
 
 \- 1 SEEEDUINO XIAO RP2040
 
